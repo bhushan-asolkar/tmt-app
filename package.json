@@ -22,7 +22,7 @@
     "@angular/router": "~8.2.14",
     "@fortawesome/fontawesome-free": "^5.13.1",
     "bootstrap": "^4.5.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "file-saver": "^2.0.2",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.5.6",
